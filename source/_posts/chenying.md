@@ -1,6 +1,6 @@
 ---
 title: 陈莹
-cover_image: /images/chenying1.jpg
+cover_image: images/chenying1.jpg
 ---
 ## 测试
 
